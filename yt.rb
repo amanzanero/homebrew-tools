@@ -1,8 +1,8 @@
-class Kubepfm < Formula
+class Yt < Formula
   desc "A simple wrapper to kubectl port-forward for multiple pods."
-  homepage "https://github.com/flowerinthenight/kubepfm"
-  url "https://github.com/amanzanero/yt/archive/yt-0.0.0.tar.gz"
-  sha256 "b6eaf4225e43995183c12dbbc94a62cb73432aaa700d85fda37745e792a57d3b"
+  homepage "https://github.com/amanzanero/yt"
+  url "https://github.com/amanzanero/yt/archive/refs/tags/0.0.0.tar.gz"
+  sha256 "d6b5f235212aa0ea1daa6e51dc6605677f1e4585a0124c2b925d18a3fcd6114a"
 
   depends_on "go"
 
